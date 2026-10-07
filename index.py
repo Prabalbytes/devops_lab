@@ -1,6 +1,7 @@
-def add(a,b):
-    a = int(input("enter a: "))
-    b = int(input("enter b: "))
-    return a+b;
+def add(a, b):
+    return a + b
 
-add()
+
+def bad():
+    x = 1
+    return x
